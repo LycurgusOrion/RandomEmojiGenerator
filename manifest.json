@@ -11,10 +11,6 @@
     "browser_action": {
       "default_title": "REG",
       "default_popup": "popup.html"
-    },
-    "permissions": [
-      "https://*/*"
-    ],
-    "content_security_policy": "default-src 'self';"
+    }
   }
   
